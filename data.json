@@ -1,0 +1,34 @@
+{
+    "details":{
+        "name":"Ch. Pavan Venkata Vamsi",
+        "email":"pavanvamis1507@gmail.com",
+        "number":7997227881,
+        "picture":"vamsi.jpg",
+        "address":"G1,Dwarakamayee apartments, ganjamvari street,kakinada,Andhra Pradesh,533001",
+        "github":"github.com/PavanVenkata Vamsi",
+        "linkedin":"linkedin.com/in/pavan-vamsi-1507",
+        "objective":"I always want be unique when compared with other. I love to solve problems in a creative and effective manner in a challenging position."
+    },
+    "education":[
+        {
+            "name":"Pragati",
+            "course":"B.Tech",
+            "year":2022
+        },
+        {
+            "name":"Aditya",
+            "course":"Intermediate",
+            "year":2018
+        },
+        {
+            "name":"Narayana",
+            "course":"10th",
+            "year":2016
+        }
+    ],
+    "tech":{
+        "skills":["C","Python","Machine Learning"],
+        "projects":["Prdicting Covid-19 in India","University Admission Prediction","House Price Prediction","Movie Recommendation System"],
+        "Interests":["Playing Cricket","Playing Chess","Exploring Technology"]
+    }
+}
